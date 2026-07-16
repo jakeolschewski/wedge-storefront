@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-15T19:38:17",
+  "generated_at": "2026-07-15T21:10:23",
   "product": "WEDGE Creator Starter System - 30-Day Content Planner and Template Pack",
   "price_usd": 19,
   "source_listing_sha256": "a01ad8f6b1cb6dee769c419c2194ef96dea591a6c955ee3fd3a3db2db56d500f",
@@ -8,12 +8,12 @@
   "source_claims_clean": true,
   "commerce_state": "owner_approved_production",
   "buyer_url": "https://wedgemethod.gumroad.com/l/gtvbct",
-  "artifact_hash": "f8a3f59ec4497cc624b4f51d497114cd0cc5dcdaabc07ba4b0d144e7835dd822",
+  "artifact_hash": "083a632a73a8161040259494108be574b26294898fa19187e30b95e16571d1f9",
   "files": [
     {
       "file": "404.html",
-      "bytes": 2094,
-      "sha256": "710c833eaa6152953113bbec7f95542ff0d9dba0d9d7c27a936c922d321a60aa"
+      "bytes": 2138,
+      "sha256": "aefbc4ba4977fbd045f4ffd0a7dd4d4f79d19e9018ee3dfd20ce622a2edd8044"
     },
     {
       "file": "README.md",
@@ -37,18 +37,18 @@
     },
     {
       "file": "favicon.svg",
-      "bytes": 253,
-      "sha256": "ad828ea3fceac6aa04557248aa2cc2fd6befa86e3e816421aebbe4eae0215e5f"
+      "bytes": 249,
+      "sha256": "091a9c2ed6df55f21ec54f2935c79b8d9dd43909ae3cb7f48c38c1b38499b340"
     },
     {
       "file": "index.html",
-      "bytes": 7770,
-      "sha256": "d66858fcad1d8eda8c84ef4b76601b28426240d1769b5e2aecfb9b69c67ec7d1"
+      "bytes": 7828,
+      "sha256": "d089b18620fb29e0dbb3ba4c55cb7ca9b2f941574ce7d873049fbd0d574fa2d0"
     },
     {
       "file": "privacy.html",
-      "bytes": 2174,
-      "sha256": "a847554c59faa521cb151731e5847531a0de310085ab7bcad151d13118f1a738"
+      "bytes": 2218,
+      "sha256": "6ef60b771be4ea87c98af8cf7d5a12a232aae0ffb092c8f1680071bc07ca0ef8"
     },
     {
       "file": "robots.txt",
@@ -62,8 +62,8 @@
     },
     {
       "file": "terms.html",
-      "bytes": 2161,
-      "sha256": "6a13b8aa5c000d8b63e0c26debd09c83b7f356bdae1a9e75646f7871d8a03ba1"
+      "bytes": 2205,
+      "sha256": "9cd1adfdca82e7f0df1a23356ce8c27dd399cd60f31c932d163de299d68ccb15"
     }
   ],
   "public_deployment_allowed": true,
