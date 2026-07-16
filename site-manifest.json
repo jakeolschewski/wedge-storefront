@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-15T21:10:23",
+  "generated_at": "2026-07-15T22:15:52",
   "product": "WEDGE Creator Starter System - 30-Day Content Planner and Template Pack",
   "price_usd": 19,
   "source_listing_sha256": "a01ad8f6b1cb6dee769c419c2194ef96dea591a6c955ee3fd3a3db2db56d500f",
@@ -8,12 +8,12 @@
   "source_claims_clean": true,
   "commerce_state": "owner_approved_production",
   "buyer_url": "https://wedgemethod.gumroad.com/l/gtvbct",
-  "artifact_hash": "083a632a73a8161040259494108be574b26294898fa19187e30b95e16571d1f9",
+  "artifact_hash": "e55e0e8bae46b4755345f38fcda4d48d25bfffb6a9dfa83570c93af7836b8548",
   "files": [
     {
       "file": "404.html",
-      "bytes": 2138,
-      "sha256": "aefbc4ba4977fbd045f4ffd0a7dd4d4f79d19e9018ee3dfd20ce622a2edd8044"
+      "bytes": 2731,
+      "sha256": "a1f87c6c47aeb21b092aa8bd7bea172757cd8304fa6bff2472554f73185600e9"
     },
     {
       "file": "README.md",
@@ -42,13 +42,13 @@
     },
     {
       "file": "index.html",
-      "bytes": 7828,
-      "sha256": "d089b18620fb29e0dbb3ba4c55cb7ca9b2f941574ce7d873049fbd0d574fa2d0"
+      "bytes": 8774,
+      "sha256": "96b6b021727f9ecc8bd0b9c1291ca559351d2055727a6d488197b33338c5f1b2"
     },
     {
       "file": "privacy.html",
-      "bytes": 2218,
-      "sha256": "6ef60b771be4ea87c98af8cf7d5a12a232aae0ffb092c8f1680071bc07ca0ef8"
+      "bytes": 2787,
+      "sha256": "ff09cd8ad3e773f6f8df98a5f90d6407a0fea75588e61ab4bd37d83e19867d4e"
     },
     {
       "file": "robots.txt",
@@ -62,8 +62,8 @@
     },
     {
       "file": "terms.html",
-      "bytes": 2205,
-      "sha256": "9cd1adfdca82e7f0df1a23356ce8c27dd399cd60f31c932d163de299d68ccb15"
+      "bytes": 2764,
+      "sha256": "55be496351c2098eee0f73f1ea287781ace72727807a2b62a17410e7ca5caddb"
     }
   ],
   "public_deployment_allowed": true,
