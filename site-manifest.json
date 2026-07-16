@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-15T19:38:17",
+  "product": "WEDGE Creator Starter System - 30-Day Content Planner and Template Pack",
+  "price_usd": 19,
+  "source_listing_sha256": "a01ad8f6b1cb6dee769c419c2194ef96dea591a6c955ee3fd3a3db2db56d500f",
+  "source_manifest_sha256": "5691353933c9417e1b2b81be9f8893b5c34613a303d1c6e54275fe14d45edb0c",
+  "source_claims_clean": true,
+  "commerce_state": "owner_approved_production",
+  "buyer_url": "https://wedgemethod.gumroad.com/l/gtvbct",
+  "artifact_hash": "f8a3f59ec4497cc624b4f51d497114cd0cc5dcdaabc07ba4b0d144e7835dd822",
+  "files": [
+    {
+      "file": "404.html",
+      "bytes": 2094,
+      "sha256": "710c833eaa6152953113bbec7f95542ff0d9dba0d9d7c27a936c922d321a60aa"
+    },
+    {
+      "file": "README.md",
+      "bytes": 278,
+      "sha256": "3e70043cbc6e824abf9784e3da6089eb1f5186b58bf4f164e4e17f98cad7efc1"
+    },
+    {
+      "file": "_headers",
+      "bytes": 347,
+      "sha256": "b44306e20f5ee4a20895c7e1225b9b9aafba144341c270710baf78a7cd4dfda9"
+    },
+    {
+      "file": "app.js",
+      "bytes": 609,
+      "sha256": "f10f5a7c0d5af35f639eed0a1c777d4ab2d78cf53a005c78074b0c5924a2e890"
+    },
+    {
+      "file": "assets/creator-starter-cover.png",
+      "bytes": 44129,
+      "sha256": "a95e61eacb00917e3a77b64481942b24185a94ea4702d7ef27380732518b7e43"
+    },
+    {
+      "file": "favicon.svg",
+      "bytes": 253,
+      "sha256": "ad828ea3fceac6aa04557248aa2cc2fd6befa86e3e816421aebbe4eae0215e5f"
+    },
+    {
+      "file": "index.html",
+      "bytes": 7770,
+      "sha256": "d66858fcad1d8eda8c84ef4b76601b28426240d1769b5e2aecfb9b69c67ec7d1"
+    },
+    {
+      "file": "privacy.html",
+      "bytes": 2174,
+      "sha256": "a847554c59faa521cb151731e5847531a0de310085ab7bcad151d13118f1a738"
+    },
+    {
+      "file": "robots.txt",
+      "bytes": 23,
+      "sha256": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95"
+    },
+    {
+      "file": "styles.css",
+      "bytes": 9495,
+      "sha256": "051e1e62a956bc7d500098ff5a8c4868ef25ad8398826c6e36c585d1d992e70e"
+    },
+    {
+      "file": "terms.html",
+      "bytes": 2161,
+      "sha256": "6a13b8aa5c000d8b63e0c26debd09c83b7f356bdae1a9e75646f7871d8a03ba1"
+    }
+  ],
+  "public_deployment_allowed": true,
+  "owner_approval_required": false,
+  "external_effect": "none",
+  "approval_id": "A-WEB-d61190589d"
+}
