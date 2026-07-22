@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-15T22:15:52",
+  "generated_at": "2026-07-22T04:30:12+00:00",
   "product": "WEDGE Creator Starter System - 30-Day Content Planner and Template Pack",
   "price_usd": 19,
   "source_listing_sha256": "a01ad8f6b1cb6dee769c419c2194ef96dea591a6c955ee3fd3a3db2db56d500f",
@@ -8,7 +8,7 @@
   "source_claims_clean": true,
   "commerce_state": "owner_approved_production",
   "buyer_url": "https://wedgemethod.gumroad.com/l/gtvbct",
-  "artifact_hash": "e55e0e8bae46b4755345f38fcda4d48d25bfffb6a9dfa83570c93af7836b8548",
+  "artifact_hash": "19f13123cee8b9f766242de119f7bb8854a67d3f9bbdeaadd000db108fc989c6",
   "files": [
     {
       "file": "404.html",
@@ -42,8 +42,8 @@
     },
     {
       "file": "index.html",
-      "bytes": 8774,
-      "sha256": "96b6b021727f9ecc8bd0b9c1291ca559351d2055727a6d488197b33338c5f1b2"
+      "bytes": 10868,
+      "sha256": "ae4b072f66a5cc617621d0c9b56b778078c6315a096f7c75855f5c3ca074b956"
     },
     {
       "file": "privacy.html",
@@ -51,9 +51,29 @@
       "sha256": "ff09cd8ad3e773f6f8df98a5f90d6407a0fea75588e61ab4bd37d83e19867d4e"
     },
     {
+      "file": "privacy/index.html",
+      "bytes": 2787,
+      "sha256": "ff09cd8ad3e773f6f8df98a5f90d6407a0fea75588e61ab4bd37d83e19867d4e"
+    },
+    {
+      "file": "refund.html",
+      "bytes": 2935,
+      "sha256": "65e52763d4b7e43a2e479cbf1dbf1b8f674f2b16877df1d1d5f13ddcf0dbc2e7"
+    },
+    {
+      "file": "refund/index.html",
+      "bytes": 2935,
+      "sha256": "65e52763d4b7e43a2e479cbf1dbf1b8f674f2b16877df1d1d5f13ddcf0dbc2e7"
+    },
+    {
       "file": "robots.txt",
       "bytes": 23,
       "sha256": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95"
+    },
+    {
+      "file": "shop/index.html",
+      "bytes": 10868,
+      "sha256": "ae4b072f66a5cc617621d0c9b56b778078c6315a096f7c75855f5c3ca074b956"
     },
     {
       "file": "styles.css",
@@ -64,6 +84,16 @@
       "file": "terms.html",
       "bytes": 2764,
       "sha256": "55be496351c2098eee0f73f1ea287781ace72727807a2b62a17410e7ca5caddb"
+    },
+    {
+      "file": "terms/index.html",
+      "bytes": 2764,
+      "sha256": "55be496351c2098eee0f73f1ea287781ace72727807a2b62a17410e7ca5caddb"
+    },
+    {
+      "file": "tumblelight.html",
+      "bytes": 8853,
+      "sha256": "0201bdc905d9b0313012aa44eab09f4379aa6d9181994d07e6bd83f4a11a8ba1"
     }
   ],
   "public_deployment_allowed": true,
